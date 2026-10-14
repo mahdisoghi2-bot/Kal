@@ -1,0 +1,429 @@
+[
+ {
+  "id": "ghormeh_sabzi",
+  "fa": "قرمه‌سبزی",
+  "kcal": 620,
+  "aliases": [
+   "ghormeh sabzi"
+  ]
+ },
+ {
+  "id": "chelo_kabab_koobideh",
+  "fa": "چلوکباب کوبیده",
+  "kcal": 850,
+  "aliases": [
+   "chelo kabab",
+   "kabab koobideh",
+   "kebab"
+  ]
+ },
+ {
+  "id": "joojeh_kabab",
+  "fa": "جوجه‌کباب",
+  "kcal": 750,
+  "aliases": [
+   "joojeh kabab",
+   "chicken kebab"
+  ]
+ },
+ {
+  "id": "abgoosht",
+  "fa": "آبگوشت",
+  "kcal": 650,
+  "aliases": [
+   "dizi",
+   "abgoosht"
+  ]
+ },
+ {
+  "id": "gheimeh",
+  "fa": "قیمه",
+  "kcal": 700,
+  "aliases": [
+   "gheimeh"
+  ]
+ },
+ {
+  "id": "kashk_bademjan",
+  "fa": "کشک بادمجان",
+  "kcal": 280,
+  "aliases": [
+   "kashk bademjan"
+  ]
+ },
+ {
+  "id": "mirza_ghasemi",
+  "fa": "میرزا قاسمی",
+  "kcal": 250,
+  "aliases": [
+   "mirza ghasemi"
+  ]
+ },
+ {
+  "id": "fesenjan",
+  "fa": "فسنجان",
+  "kcal": 780,
+  "aliases": [
+   "fesenjan"
+  ]
+ },
+ {
+  "id": "zereshk_polo",
+  "fa": "زرشک‌پلو با مرغ",
+  "kcal": 800,
+  "aliases": [
+   "zereshk polo"
+  ]
+ },
+ {
+  "id": "baghali_polo",
+  "fa": "باقالی‌پلو با ماهیچه",
+  "kcal": 900,
+  "aliases": [
+   "baghali polo"
+  ]
+ },
+ {
+  "id": "adas_polo",
+  "fa": "عدس‌پلو",
+  "kcal": 700,
+  "aliases": [
+   "adas polo"
+  ]
+ },
+ {
+  "id": "sabzi_polo_mahi",
+  "fa": "سبزی‌پلو با ماهی",
+  "kcal": 700,
+  "aliases": [
+   "sabzi polo"
+  ]
+ },
+ {
+  "id": "loobia_polo",
+  "fa": "لوبیاپلو",
+  "kcal": 700,
+  "aliases": [
+   "loobia polo"
+  ]
+ },
+ {
+  "id": "ash_reshteh",
+  "fa": "آش رشته",
+  "kcal": 350,
+  "aliases": [
+   "ash reshteh",
+   "ash"
+  ]
+ },
+ {
+  "id": "haleem",
+  "fa": "حلیم",
+  "kcal": 350,
+  "aliases": [
+   "haleem"
+  ]
+ },
+ {
+  "id": "kuku_sabzi",
+  "fa": "کوکو سبزی",
+  "kcal": 220,
+  "aliases": [
+   "kuku sabzi"
+  ]
+ },
+ {
+  "id": "omelet_irani",
+  "fa": "املت",
+  "kcal": 300,
+  "aliases": [
+   "omelette",
+   "omelet"
+  ]
+ },
+ {
+  "id": "nimroo",
+  "fa": "نیمرو",
+  "kcal": 180,
+  "aliases": [
+   "fried egg",
+   "eggs benedict"
+  ]
+ },
+ {
+  "id": "nan_paneer_gerdoo",
+  "fa": "نان و پنیر و گردو",
+  "kcal": 300,
+  "aliases": [
+   "bread cheese walnut"
+  ]
+ },
+ {
+  "id": "falafel_sandwich",
+  "fa": "ساندویچ فلافل",
+  "kcal": 450,
+  "aliases": [
+   "falafel"
+  ]
+ },
+ {
+  "id": "macaroni",
+  "fa": "ماکارونی",
+  "kcal": 600,
+  "aliases": [
+   "macaroni",
+   "spaghetti_bolognese",
+   "spaghetti bolognese",
+   "spaghetti_carbonara",
+   "spaghetti carbonara",
+   "lasagna",
+   "macaroni_and_cheese"
+  ]
+ },
+ {
+  "id": "salad_shirazi",
+  "fa": "سالاد شیرازی",
+  "kcal": 80,
+  "aliases": [
+   "salad shirazi"
+  ]
+ },
+ {
+  "id": "mast",
+  "fa": "ماست",
+  "kcal": 100,
+  "aliases": [
+   "yogurt"
+  ]
+ },
+ {
+  "id": "chelo_morgh",
+  "fa": "چلو مرغ",
+  "kcal": 750,
+  "aliases": [
+   "chicken rice"
+  ]
+ },
+ {
+  "id": "plain_rice",
+  "fa": "برنج ساده",
+  "kcal": 420,
+  "aliases": [
+   "rice",
+   "steamed rice",
+   "fried_rice",
+   "fried rice"
+  ]
+ },
+ {
+  "id": "hamburger",
+  "fa": "همبرگر",
+  "kcal": 550,
+  "aliases": [
+   "hamburger",
+   "burger",
+   "cheeseburger"
+  ]
+ },
+ {
+  "id": "pizza",
+  "fa": "پیتزا (دو برش)",
+  "kcal": 570,
+  "aliases": [
+   "pizza"
+  ]
+ },
+ {
+  "id": "french_fries",
+  "fa": "سیب‌زمینی سرخ‌کرده",
+  "kcal": 365,
+  "aliases": [
+   "french_fries",
+   "french fries",
+   "fries"
+  ]
+ },
+ {
+  "id": "sushi",
+  "fa": "سوشی",
+  "kcal": 300,
+  "aliases": [
+   "sushi",
+   "sashimi"
+  ]
+ },
+ {
+  "id": "caesar_salad",
+  "fa": "سالاد سزار",
+  "kcal": 330,
+  "aliases": [
+   "caesar_salad",
+   "greek_salad",
+   "greek salad",
+   "salad"
+  ]
+ },
+ {
+  "id": "fried_chicken",
+  "fa": "مرغ سوخاری",
+  "kcal": 480,
+  "aliases": [
+   "fried_chicken",
+   "chicken_wings",
+   "chicken wings"
+  ]
+ },
+ {
+  "id": "steak",
+  "fa": "استیک",
+  "kcal": 620,
+  "aliases": [
+   "steak",
+   "filet_mignon",
+   "prime_rib",
+   "grilled steak"
+  ]
+ },
+ {
+  "id": "sandwich",
+  "fa": "ساندویچ",
+  "kcal": 400,
+  "aliases": [
+   "club_sandwich",
+   "club sandwich",
+   "sandwich",
+   "hot_dog",
+   "hot dog"
+  ]
+ },
+ {
+  "id": "soup",
+  "fa": "سوپ",
+  "kcal": 200,
+  "aliases": [
+   "soup",
+   "miso_soup",
+   "french_onion_soup",
+   "clam_chowder"
+  ]
+ },
+ {
+  "id": "pancake",
+  "fa": "پنکیک",
+  "kcal": 350,
+  "aliases": [
+   "pancakes",
+   "pancake",
+   "waffles"
+  ]
+ },
+ {
+  "id": "cake",
+  "fa": "کیک (یک برش)",
+  "kcal": 350,
+  "aliases": [
+   "chocolate_cake",
+   "chocolate cake",
+   "carrot_cake",
+   "red_velvet_cake",
+   "cheesecake",
+   "cake"
+  ]
+ },
+ {
+  "id": "ice_cream",
+  "fa": "بستنی",
+  "kcal": 210,
+  "aliases": [
+   "ice_cream",
+   "ice cream",
+   "frozen_yogurt"
+  ]
+ },
+ {
+  "id": "donut",
+  "fa": "دونات",
+  "kcal": 250,
+  "aliases": [
+   "donuts",
+   "donut"
+  ]
+ },
+ {
+  "id": "apple",
+  "fa": "سیب",
+  "kcal": 95,
+  "aliases": [
+   "apple"
+  ]
+ },
+ {
+  "id": "banana",
+  "fa": "موز",
+  "kcal": 105,
+  "aliases": [
+   "banana"
+  ]
+ },
+ {
+  "id": "orange",
+  "fa": "پرتقال",
+  "kcal": 65,
+  "aliases": [
+   "orange",
+   "tangerine"
+  ]
+ },
+ {
+  "id": "kebab_barg",
+  "fa": "چلوکباب برگ",
+  "kcal": 800,
+  "aliases": [
+   "kabab barg"
+  ]
+ },
+ {
+  "id": "tahchin",
+  "fa": "ته‌چین",
+  "kcal": 650,
+  "aliases": [
+   "tahchin"
+  ]
+ },
+ {
+  "id": "khoresh_karafs",
+  "fa": "خورش کرفس",
+  "kcal": 560,
+  "aliases": [
+   "khoresh karafs"
+  ]
+ },
+ {
+  "id": "dolmeh",
+  "fa": "دلمه",
+  "kcal": 300,
+  "aliases": [
+   "dolmeh",
+   "dolma"
+  ]
+ },
+ {
+  "id": "lavash_kebab_wrap",
+  "fa": "رول کباب",
+  "kcal": 520,
+  "aliases": [
+   "wrap",
+   "burrito",
+   "gyro",
+   "shawarma"
+  ]
+ },
+ {
+  "id": "omelette_sandwich",
+  "fa": "ساندویچ تخم‌مرغ",
+  "kcal": 380,
+  "aliases": [
+   "egg sandwich"
+  ]
+ }
+]

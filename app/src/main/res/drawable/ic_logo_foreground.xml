@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PLACEHOLDER_LOGO_FOREGROUND: replace with your logo (keep inside the 72dp safe zone of the 108dp canvas). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#39FF14"
+        android:pathData="M28,58 A26,26 0 1,0 80,58 A26,26 0 1,0 28,58 Z" />
+    <path android:fillColor="#FF8A1C"
+        android:pathData="M36,58 A18,18 0 1,0 72,58 A18,18 0 1,0 36,58 Z" />
+    <path android:fillColor="#39FF14"
+        android:pathData="M54,32 C54,24 60,20 68,20 C68,28 62,32 54,32 Z" />
+</vector>

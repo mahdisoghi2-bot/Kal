@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PLACEHOLDER_LOGO_MONOCHROME: replace with your monochrome logo. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M28,58 A26,26 0 1,0 80,58 A26,26 0 1,0 28,58 Z M54,32 C54,24 60,20 68,20 C68,28 62,32 54,32 Z" />
+</vector>
